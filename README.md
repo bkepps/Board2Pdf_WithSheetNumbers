@@ -16,11 +16,13 @@ This plugin ONLY works with the KiCad 6.0 and 7.0. It does NOT work with KiCad 5
 [https://gitlab.com/dennevi/Board2Pdf/](https://gitlab.com/dennevi/Board2Pdf/)
 
 ## Installation
-The easiest way to install is to open KiCad -> Plugin And Content Manager. Select Board2Pdf in the Plugins tab, press Install and then Apply Changes.
+~~The easiest way to install is to open KiCad -> Plugin And Content Manager. Select Board2Pdf in the Plugins tab, press Install and then Apply Changes.~~
 
-For instructions on manual installation, see [Wiki - Installation](https://gitlab.com/dennevi/Board2Pdf/-/wikis/Installation)
+~~For instructions on manual installation, see [Wiki - Installation](https://gitlab.com/dennevi/Board2Pdf/-/wikis/Installation)~~
 
 Also, see Dependencies below.
+
+To install, put files in a zip folder, then use install from file in kicad PCM
 
 ## Dependencies
 For basic functionality Board2Pdf uses [pypdf](https://github.com/py-pdf/pypdf) which is included when installing Board2Pdf. You don’t need to install any dependencies if this functionality is enough for you.
